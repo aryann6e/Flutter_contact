@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "335212168996",
+    "firebase_url": "https://fluttercontacts-70d58-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fluttercontacts-70d58",
+    "storage_bucket": "fluttercontacts-70d58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335212168996:android:5afe1b42b0360c1bf1d5b1",
+        "android_client_info": {
+          "package_name": "com.example.fluttercontact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKv20INpjn6zNvhdTBtJLVihMzM8aUQKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
